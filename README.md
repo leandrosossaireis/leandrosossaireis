@@ -1,15 +1,14 @@
-### Olá, Eu sou o Leandro! 
+### Olá, Eu sou o Leandro Sossai dos Reis! 👋 
 
-- 👋 Hi, I’m @leandrosossaireis
-- 👀 I’m interested in Web Front End.
-- 🌱 I’m currently learning Web Front End/Web Designer.
-- 💞️ I’m looking to collaborate on any Web Front End/Web Designer work
-- 📫 How to reach me ...
+- 👀 Estou interessado em Web Front-End.
+- 🌱 Atualmente estou aprendendo Web Front-End/Web Designer.
+- 💞️ Estou procurando colaborar em qualquer trabalho de Web Front-End/Web Designer.
+- 📫 Como chegar até mim...
 
 <div>
-  <a href="https://beacons.ai/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini2&layout=compact&langs_count=16&theme=dark"/>
+  <a href="">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroSossai&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSossai&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
