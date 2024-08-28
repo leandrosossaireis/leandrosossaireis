@@ -2,10 +2,6 @@
 
 Sou formado em Engenharia da Computação, atualmente trabalho com Front End, mas possuo experiencia em UX/UI Designer, desenvolvida através de estudos e projetos.  
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
 ---
 
 ## 🚀 Minhas Skills
