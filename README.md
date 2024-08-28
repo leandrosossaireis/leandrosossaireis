@@ -15,4 +15,4 @@ Sou formado em Engenharia da Computação, atualmente trabalho com Front End, ma
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeandroSossai&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeandroSossaiReis&show_icons=true)
